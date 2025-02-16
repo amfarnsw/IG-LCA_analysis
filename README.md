@@ -9,7 +9,7 @@ Note that the below table describes csv file names and contents for all source d
 
 | Name | Description | Units |
 |------|-------------|-------|
-| 2030_load | 2030 hourly normalized load for all regions | kWh / average kWh |
+| LoadUpdate_2033 | 2033 hourly normalized load for all regions | kWh / average kWh |
 | *region*\_hourly_RoR_hydro_cf_curve\_*year* | RoR hourly CF for the specified *year* and *region* | % |
 | *region*\_offshore_wind | Seven years of hourly offshore wind CF data for the specified *region* | % |
 | G_data | Seven years of hourly wind and solar CFs for each region | % |
