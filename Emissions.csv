@@ -1,0 +1,16 @@
+﻿,Grid-dependent Capacity Emissions (gCO2/kW/yr/kWh-used),Grid-independent Capacity Emissions (gCO2/kW/yr),Operational Emissions (gCO2/kWh)
+Solar,71.744,37956,0
+Wind,13.591,12015,0
+Offshore Wind,25.332,19736,0
+Conventional Hydro,0,110376,0
+RoR Hydro,0,28330,0
+Nuclear,0,3735,7.9
+NGCT,0,32755,781
+NGCC,0,39901,481
+NGCCS,0,44334,27
+PHS,0,3150,0
+LIBShort,7.5,7470,0
+LIB,15,14940,0
+LIBLong,30,29880,0
+Geothermal,0,63246,3.8
+Coal-Biomass CCS,0,28032,-85
