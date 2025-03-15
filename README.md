@@ -10,6 +10,9 @@ Note that the below table describes csv file names and contents for all source d
 | Name | Description | Units |
 |------|-------------|-------|
 | LoadUpdate_2033 | 2033 hourly normalized load for all regions | kWh / average kWh |
+| 2033_Costs | 2033 financial values for each technology | Included in SI |
+| RegionalLimits_2033 | Technology- and region-specific build limits | kW |
+| Emissions | Different sources of emissions (operational, grid-independent emboddied, grid-dependent embodied) | Included in column names |
 | *region*\_hourly_RoR_hydro_cf_curve\_*year* | RoR hourly CF for the specified *year* and *region* | % |
 | *region*\_offshore_wind | Seven years of hourly offshore wind CF data for the specified *region* | % |
 | G_data | Seven years of hourly wind and solar CFs for each region | % |
