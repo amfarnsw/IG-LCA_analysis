@@ -15,9 +15,7 @@ Note that the below table describes csv file names and contents for all source d
 | G_data | Seven years of hourly wind and solar CFs for each region | % |
 | monthly_hydro_CFs_*year* | Monthly conventional hydro CFs for each region for specfified *year* | % |
 
-Costs are included in the **gathering_financial_values** function, emissions are included in **gathering_emissions_values**, and regional capacity limits are included in lines 818 to 934 of *LCA_version*. 
-
-Please reference Farnsworth and Gencer's *The elephant in the room: embodied emissions in our power sector* in *Nature Communications* for more details on source and methodology of this data.
+Please reference Farnsworth and Gencer's *Embodied emissions in the US power sector* in *Nature Communications* for more details on source and methodology of this data.
 
 ### Building Cases
 
